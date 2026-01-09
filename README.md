@@ -1,6 +1,6 @@
 # 🤖 RoboFriends
 
-RoboFriends is a **React-based web app** that displays a list of robot profiles and allows users to **search/filter** them in real time. It’s a beginner‑friendly project often built as part of learning React and Redux. :contentReference[oaicite:1]{index=1}
+RoboFriends is a **React-based web app** that displays a list of robot profiles and allows users to **search/filter** them in real time. It’s a beginner‑friendly project often built as part of learning React and Redux. 
 
 📍 **Live demo (GitHub Pages):**  
 https://firestarnc.github.io/robofriends/
